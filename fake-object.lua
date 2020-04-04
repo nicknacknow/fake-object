@@ -24,3 +24,5 @@ function magic:new(name) -- function 'new' which will be in the returned table t
 	return new
 
 end
+
+return magic
